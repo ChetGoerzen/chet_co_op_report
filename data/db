@@ -1,0 +1,5 @@
+# Descriptor file
+
+schema	css3.0
+dbpath	.{db}:./{nbc}:../../../nbc_archive/2019/{wfs}
+dblocs	local
